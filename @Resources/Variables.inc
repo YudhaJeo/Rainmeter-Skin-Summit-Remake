@@ -12,7 +12,7 @@
 ;█▀▀ █░░ █▀█ █▀▀ █▄▀   █▀ █▀▀ ▀█▀ ▀█▀ █ █▄░█ █▀▀ █▀
 ;█▄▄ █▄▄ █▄█ █▄▄ █░█   ▄█ ██▄ ░█░ ░█░ █ █░▀█ █▄█ ▄█
 
-CScale=1.5
+CScale=1.3
 Format=I
 # 'H' for 24 hr Clock and 'I' for 12 hr clock
 Hidden=1
